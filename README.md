@@ -1,47 +1,17 @@
-# Ionic geofence sample project
+Biogeofence Project Readme
+Biogeofence
+Biogeofence is a location-based app notification and disabling system developed for SRM Project Day. The project aims to enhance digital well-being by intelligently managing app notifications and disabling specific apps based on the user's location. This README provides essential information for understanding, setting up, and using the Biogeofence project.
 
-[![Build Status](https://travis-ci.org/cowbell/ionic-geofence.svg?branch=master)](https://travis-ci.org/cowbell/ionic-geofence)
+Features
+Geofencing Technology:
 
-Sample project using [cordova geofence plugin](https://github.com/tsubik/cordova-plugin-geofence)
+Utilizes geofencing APIs to create virtual boundaries and trigger actions based on the user's location.
+Notification Management:
 
-![ionic-geofence](https://cloud.githubusercontent.com/assets/1286444/4302807/604c7c5e-3e5e-11e4-87df-99b22abffdc8.jpg)
+Monitors user location to intelligently manage app notifications within predefined geofences.
+App Disabling System:
 
-## Installation
+Disables specific apps when the user enters designated geofenced areas to minimize distractions.
+User-Friendly Interface:
 
-Use local npm packages
-
-```
-npm install
-bower install
-```
-
-For testing in browser
-
-```
-ionic serve
-```
-
-For android
-
-```
-ionic platform add android
-ionic run android
-```
-
-For iOS
-
-```
-ionic platform add ios
-ionic run ios
-```
-
-## Platforms
-
-- Android
-- iOS
-
-## License
-
-This software is released under the [MIT License](https://raw.githubusercontent.com/tsubik/ionic-geofence/master/LICENSE).
-
-© 2014 Tomasz Subik. All rights reserved
+Provides an intuitive interface for users to set up geofences, customize notification preferences, and manage app disabling rules.
