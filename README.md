@@ -20,3 +20,6 @@ Disables specific apps when the user enters designated geofenced areas to minimi
 User-Friendly Interface:
 
 Provides an intuitive interface for users to set up geofences, customize notification preferences, and manage app disabling rules.
+
+Credit:
+"https://github.com/tsubik/ionic2-geofence"
