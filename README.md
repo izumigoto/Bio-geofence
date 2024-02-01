@@ -5,7 +5,7 @@ Biogeofence is a location-based app notification and disabling system developed 
 
 This project is developed from the opensource ionic (a complete open-source SDK for hybrid mobile app development)-this is a development with little extra feature
 
-###Features.
+##Features.
 Geofencing Technology:
 
 Utilizes geofencing APIs to create virtual boundaries and trigger actions based on the user's location.
